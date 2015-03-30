@@ -1,7 +1,7 @@
-name: Família Sopranos: The Sopranos: Explicação Definitiva do Final
-description: Tradução de um texto muito conhecido na internet sobre o final de "The Sopranos"
+name: "Família Sopranos: The Sopranos: Explicação Definitiva do Final"
+description: "Tradução de um texto muito conhecido na internet sobre o final de \"The Sopranos\""
 
-url: http://rodrigomonteiro.github.com/thesopranostheend
+url: https://rodrigomonteiro.github.com/thesopranos.thefinal
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
