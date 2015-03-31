@@ -1,2 +1,2 @@
 # thesopranos.thefinal
-Família Sopranos: Explicação Definitiva do Final
+Família Soprano: Explicação Definitiva do Final
