@@ -6,7 +6,7 @@ title: Sobre
 <div class="post">
 	<h1 class="pageTitle">Sobre esse site</h1>
 	<img src="{{ site.url }}/assets/img/thesopranos.jpg" alt="">
-	<p class="intro"><b>Dr. Jennifer Melfi:</b> "What line of work are you in?"
+	<p class="intro"><b>Dr. Jennifer Melfi:</b> "What line of work are you in?"<br>
                      <b>Tony Soprano:</b> "Waste management consultant."</p>
 	<p><b>The Sopranos</b> é considerada umas das grandes series da TV norte-americana, seja pelo roteiro, pela atuação
 	dos grandes atores, pelo carisma que os personagens passam e ainda pela otima trilha sonora.</p>
